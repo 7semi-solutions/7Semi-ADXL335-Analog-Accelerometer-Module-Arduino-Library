@@ -22,7 +22,7 @@ This Arduino library provides an interface for reading 3-axis analog acceleratio
  
       - Download or clone the repository.
 
-      - Copy the files `7semi_adxl335.cpp` and `7semi_adxl335.h` into a folder named `7semi_ADXL335` under your Arduino `libraries/` directory.
+      - Copy the files `7semi_ADXL335.cpp` and `7semi_ADXL335.h` into a folder named `7semi_ADXL335` under your Arduino `libraries/` directory.
 
       - Restart the Arduino IDE.
 
