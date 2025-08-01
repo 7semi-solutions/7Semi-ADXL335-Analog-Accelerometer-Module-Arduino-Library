@@ -47,10 +47,6 @@ X: 503 Y: 507 Z: 615
 X: 498 Y: 506 Z: 610
 X: 502 Y: 508 Z: 612
 
-yaml
-Copy
-Edit
-
 The output values represent analog readings (0–1023) corresponding to acceleration in X, Y, and Z directions. You can convert these to g-units using calibration.
 
 ---
